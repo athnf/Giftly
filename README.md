@@ -1,6 +1,6 @@
 # 🎉 Giftly Bot - Discord Giveaway Bot
 
-![Bot Banner](https://media.discordapp.net/attachments/1110450689465778246/1253642785922662410/giveaway_banner.png)
+![Bot Banner]([https://media.discordapp.net/attachments/1110450689465778246/1253642785922662410/giveaway_banner.png](https://media.discordapp.net/attachments/1217233608213921883/1331135064813342791/Screenshot_2025-01-21_072057.jpg?ex=679083a2&is=678f3222&hm=8f52162579686f81996f7a2ecf49a91487852c8ba19bb3488e4fdd7d292593d8&=&format=webp&width=359&height=314))
 
 ## 🤖 About Giftly Bot
 
